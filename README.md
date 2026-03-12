@@ -35,10 +35,14 @@
 ---
 
 ### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cb-eswar&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cb-eswar&layout=compact&theme=tokyonight" width="48%" />
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cb-eswar&show_icons=true&theme=tokyonight)](...)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cb-eswar&layout=compact&theme=tokyonight)](...)
+
+### 🧩 LeetCode Stats:
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/indra3699?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/indra3699/)
 
 ---
 
