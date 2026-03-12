@@ -46,6 +46,12 @@
 
 ---
 
+### 🔥 GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CB-ESWAR&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cb-eswar&theme=gruvbox&column=6&margin-w=5" />
