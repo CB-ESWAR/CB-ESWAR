@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **daily LeetCode C++ problems**
+- 🔭 Currently building: Multi-Agent Travel Planner (TypeScript + AI)
 - 🌱 I’m improving my **DSA & STL** knowledge
 - 💬 Ask me about **Competitive Programming, GitHub Automation, and C++**
 - 📫 Reach me at: **cbeswar20072006@gmail.com**
