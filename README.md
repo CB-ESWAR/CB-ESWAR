@@ -60,11 +60,13 @@ Java • C++ • SQL
 
 ### Frameworks & Technologies
 
-Spring Boot • REST APIs • Git • GitHub
+Frameworks & Technologies
+
+Spring Boot (Learning) • Git • GitHub
 
 ### Tools
 
-VS Code • IntelliJ IDEA • Postman
+VS Code 
 
 ---
 
