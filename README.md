@@ -68,19 +68,18 @@ VS Code • IntelliJ IDEA • Postman
 
 ---
 
-## Current Repositories
+## Current Projects
 
-📌 DN5-JavaFSE-Solutions
-
-📌 DSA-Striver-Sheet
+📌 DN5 Java FSE Learning Repository
 
 📌 Multi-Agent Travel Planner
 
 📌 Deep Code Plagiarism Checker
 
-📌 Tumor Prediction Project
+📌 Tumor Prediction System
 
-📌 Portfolio Website
+📌 Continuous DSA Practice & Problem Solving
+
 
 ---
 
